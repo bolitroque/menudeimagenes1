@@ -1,4 +1,6 @@
 menudeimagenes1
 ===============
 
-el primer menu de imagenes de http://webcodes.weebly.com
+si te interesa descargar mas codigos ve a http://webcodes.weebly.com. 
+
+en http://webcodes.weebly.com. podrás contratar programadores y comprar templates.
